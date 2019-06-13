@@ -1,5 +1,6 @@
 import React from 'react';
+import { Link } from 'gatsby';
 
-const IconLogo = () => <h2>prsc.</h2>;
+const IconLogo = () => <Link to="/">prsc.</Link>;
 
 export default IconLogo;
