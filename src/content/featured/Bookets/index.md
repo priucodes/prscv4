@@ -1,9 +1,8 @@
 ---
-date: '1'
+date: '3'
 title: 'Bookets'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-# external: 'google.com'
+cover: './bookets.png'
+github: 'https://github.com/priscribeiro/bookets'
 tech:
   - NodeJs
   - ExpressJs

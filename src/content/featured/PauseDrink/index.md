@@ -1,8 +1,8 @@
 ---
-date: '3'
+date: '2'
 title: 'Pause...Drink!'
 cover: './pauseDrink.png'
-# github: 'https://github.com'
+# github: 'https://github.com/priscribeiro/periodicus'
 external: 'https://pausedrink.app/'
 tech:
   - Open Source Contribution
