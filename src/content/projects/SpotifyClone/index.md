@@ -3,7 +3,7 @@ date: '2019-06-01'
 title: 'Spotify Clone'
 image: ''
 github: 'https://github.com/priscribeiro/spotify-clone'
-external: ''
+external: 'https://github.com/priscribeiro/spotify-clone'
 tech:
   - ReactJs
   - Styled Components
