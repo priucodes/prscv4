@@ -19,6 +19,8 @@ const LoaderContainer = styled.div`
   right: 0;
   z-index: 99;
 `;
+
+
 const LogoWrapper = styled.div`
   width: max-content;
   max-width: 100px;
