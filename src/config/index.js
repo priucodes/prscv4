@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Priscilla Ribeiro | Software Engineer',
+  siteTitle: 'Priscilla Ribeiro | Software Developer',
   siteDescription:
     'Priscilla Ribeiro is a software engineer based in Brazil, who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
